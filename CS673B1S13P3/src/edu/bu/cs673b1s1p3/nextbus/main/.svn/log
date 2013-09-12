@@ -1,0 +1,505 @@
+<modify-entry
+   name="MainView.java"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/MainView.java.svn-base"
+   name=".svn/prop-base/svn-CSnFfK"/>
+<readonly
+   name=".svn/prop-base/MainView.java.svn-base"/>
+<modify-entry
+   committed-rev="145"
+   committed-date="2013-04-28T20:12:00.458039Z"
+   name="MainView.java"
+   last-author="lennycaraballo@gmail.com"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name="MainView.java"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/145/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main/MainView.java"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="MainView.java"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="146"/>
+<cp-and-translate
+   dest="MainView.java"
+   name=".svn/tmp/text-base/MainView.java.svn-base"/>
+<mv
+   dest=".svn/text-base/MainView.java.svn-base"
+   name=".svn/tmp/text-base/MainView.java.svn-base"/>
+<readonly
+   name=".svn/text-base/MainView.java.svn-base"/>
+<modify-entry
+   name="MainView.java"
+   checksum="67a1d0921e0897b180822308209dd610"/>
+<modify-entry
+   name="MainView.java"
+   text-time="working"/>
+<modify-entry
+   name="MainView.java"
+   working-size="working"/>
+<modify-entry
+   name="WideComboBox.java"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/WideComboBox.java.svn-base"
+   name=".svn/prop-base/svn-978WLH"/>
+<readonly
+   name=".svn/prop-base/WideComboBox.java.svn-base"/>
+<modify-entry
+   committed-rev="139"
+   committed-date="2013-04-25T03:53:46.013231Z"
+   name="WideComboBox.java"
+   last-author="lennycaraballo@gmail.com"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name="WideComboBox.java"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/139/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main/WideComboBox.java"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="WideComboBox.java"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="146"/>
+<cp-and-translate
+   dest="WideComboBox.java"
+   name=".svn/tmp/text-base/WideComboBox.java.svn-base"/>
+<mv
+   dest=".svn/text-base/WideComboBox.java.svn-base"
+   name=".svn/tmp/text-base/WideComboBox.java.svn-base"/>
+<readonly
+   name=".svn/text-base/WideComboBox.java.svn-base"/>
+<modify-entry
+   name="WideComboBox.java"
+   checksum="4a9b90d72ea499b415b0f5cf270387e9"/>
+<modify-entry
+   name="WideComboBox.java"
+   text-time="working"/>
+<modify-entry
+   name="WideComboBox.java"
+   working-size="working"/>
+<modify-entry
+   name="CustomTableModel.java"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/CustomTableModel.java.svn-base"
+   name=".svn/prop-base/svn-8XDgwd"/>
+<readonly
+   name=".svn/prop-base/CustomTableModel.java.svn-base"/>
+<modify-entry
+   committed-rev="138"
+   committed-date="2013-04-25T03:52:53.119498Z"
+   name="CustomTableModel.java"
+   last-author="lennycaraballo@gmail.com"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name="CustomTableModel.java"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/138/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main/CustomTableModel.java"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CustomTableModel.java"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="146"/>
+<cp-and-translate
+   dest="CustomTableModel.java"
+   name=".svn/tmp/text-base/CustomTableModel.java.svn-base"/>
+<mv
+   dest=".svn/text-base/CustomTableModel.java.svn-base"
+   name=".svn/tmp/text-base/CustomTableModel.java.svn-base"/>
+<readonly
+   name=".svn/text-base/CustomTableModel.java.svn-base"/>
+<modify-entry
+   name="CustomTableModel.java"
+   checksum="5432a9e2cad199020206f5163c35718b"/>
+<modify-entry
+   name="CustomTableModel.java"
+   text-time="working"/>
+<modify-entry
+   name="CustomTableModel.java"
+   working-size="working"/>
+<modify-entry
+   name="MainModel.java"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/MainModel.java.svn-base"
+   name=".svn/prop-base/svn-GA1eJD"/>
+<readonly
+   name=".svn/prop-base/MainModel.java.svn-base"/>
+<modify-entry
+   committed-rev="142"
+   committed-date="2013-04-28T12:38:19.850179Z"
+   name="MainModel.java"
+   last-author="ton@bu.edu"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name="MainModel.java"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/142/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main/MainModel.java"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="MainModel.java"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="146"/>
+<cp-and-translate
+   dest="MainModel.java"
+   name=".svn/tmp/text-base/MainModel.java.svn-base"/>
+<mv
+   dest=".svn/text-base/MainModel.java.svn-base"
+   name=".svn/tmp/text-base/MainModel.java.svn-base"/>
+<readonly
+   name=".svn/text-base/MainModel.java.svn-base"/>
+<modify-entry
+   name="MainModel.java"
+   checksum="3b48dc1ec116fab75224a282075c962e"/>
+<modify-entry
+   name="MainModel.java"
+   text-time="working"/>
+<modify-entry
+   name="MainModel.java"
+   working-size="working"/>
+<modify-entry
+   name="ItemRenderer.java"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ItemRenderer.java.svn-base"
+   name=".svn/prop-base/svn-UC6LVk"/>
+<readonly
+   name=".svn/prop-base/ItemRenderer.java.svn-base"/>
+<modify-entry
+   committed-rev="126"
+   committed-date="2013-04-16T04:15:23.258817Z"
+   name="ItemRenderer.java"
+   last-author="lennycaraballo@gmail.com"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name="ItemRenderer.java"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/126/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main/ItemRenderer.java"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ItemRenderer.java"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="146"/>
+<cp-and-translate
+   dest="ItemRenderer.java"
+   name=".svn/tmp/text-base/ItemRenderer.java.svn-base"/>
+<mv
+   dest=".svn/text-base/ItemRenderer.java.svn-base"
+   name=".svn/tmp/text-base/ItemRenderer.java.svn-base"/>
+<readonly
+   name=".svn/text-base/ItemRenderer.java.svn-base"/>
+<modify-entry
+   name="ItemRenderer.java"
+   checksum="240005219331ce433e2bc6f77513db10"/>
+<modify-entry
+   name="ItemRenderer.java"
+   text-time="working"/>
+<modify-entry
+   name="ItemRenderer.java"
+   working-size="working"/>
+<modify-entry
+   name="MainController.java"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/MainController.java.svn-base"
+   name=".svn/prop-base/svn-lQWYFF"/>
+<readonly
+   name=".svn/prop-base/MainController.java.svn-base"/>
+<modify-entry
+   committed-rev="144"
+   committed-date="2013-04-28T20:11:16.632400Z"
+   name="MainController.java"
+   last-author="lennycaraballo@gmail.com"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name="MainController.java"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/144/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main/MainController.java"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="MainController.java"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="146"/>
+<cp-and-translate
+   dest="MainController.java"
+   name=".svn/tmp/text-base/MainController.java.svn-base"/>
+<mv
+   dest=".svn/text-base/MainController.java.svn-base"
+   name=".svn/tmp/text-base/MainController.java.svn-base"/>
+<readonly
+   name=".svn/text-base/MainController.java.svn-base"/>
+<modify-entry
+   name="MainController.java"
+   checksum="a8eccabddc74f6b6accca8b5a8b6d509"/>
+<modify-entry
+   name="MainController.java"
+   text-time="working"/>
+<modify-entry
+   name="MainController.java"
+   working-size="working"/>
+<modify-entry
+   name="StopsToArray.java"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/StopsToArray.java.svn-base"
+   name=".svn/prop-base/svn-FdkEJi"/>
+<readonly
+   name=".svn/prop-base/StopsToArray.java.svn-base"/>
+<modify-entry
+   committed-rev="136"
+   committed-date="2013-04-23T05:47:50.142143Z"
+   name="StopsToArray.java"
+   last-author="jimsonz@bu.edu"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name="StopsToArray.java"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/136/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main/StopsToArray.java"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="StopsToArray.java"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="146"/>
+<cp-and-translate
+   dest="StopsToArray.java"
+   name=".svn/tmp/text-base/StopsToArray.java.svn-base"/>
+<mv
+   dest=".svn/text-base/StopsToArray.java.svn-base"
+   name=".svn/tmp/text-base/StopsToArray.java.svn-base"/>
+<readonly
+   name=".svn/text-base/StopsToArray.java.svn-base"/>
+<modify-entry
+   name="StopsToArray.java"
+   checksum="ec3e8530cb6fd37cec695b2a99be92a6"/>
+<modify-entry
+   name="StopsToArray.java"
+   text-time="working"/>
+<modify-entry
+   name="StopsToArray.java"
+   working-size="working"/>
+<modify-entry
+   name="stopsToArray.java"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/stopsToArray.java.svn-base"
+   name=".svn/prop-base/svn-vGDp18"/>
+<readonly
+   name=".svn/prop-base/stopsToArray.java.svn-base"/>
+<modify-entry
+   committed-rev="101"
+   committed-date="2013-03-31T06:36:18.062937Z"
+   name="stopsToArray.java"
+   last-author="lennycaraballo@gmail.com"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name="stopsToArray.java"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/101/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main/stopsToArray.java"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="stopsToArray.java"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="146"/>
+<cp-and-translate
+   dest="stopsToArray.java"
+   name=".svn/tmp/text-base/stopsToArray.java.svn-base"/>
+<mv
+   dest=".svn/text-base/stopsToArray.java.svn-base"
+   name=".svn/tmp/text-base/stopsToArray.java.svn-base"/>
+<readonly
+   name=".svn/text-base/stopsToArray.java.svn-base"/>
+<modify-entry
+   name="stopsToArray.java"
+   checksum="ab81e464984df87a8336ef43ebfcd4d9"/>
+<modify-entry
+   name="stopsToArray.java"
+   text-time="working"/>
+<modify-entry
+   name="stopsToArray.java"
+   working-size="working"/>
+<modify-entry
+   name="SplashScreen.java"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/SplashScreen.java.svn-base"
+   name=".svn/prop-base/svn-s1HqcA"/>
+<readonly
+   name=".svn/prop-base/SplashScreen.java.svn-base"/>
+<modify-entry
+   committed-rev="130"
+   committed-date="2013-04-20T02:07:35.097459Z"
+   name="SplashScreen.java"
+   last-author="lennycaraballo@gmail.com"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name="SplashScreen.java"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/130/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main/SplashScreen.java"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="SplashScreen.java"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="146"/>
+<cp-and-translate
+   dest="SplashScreen.java"
+   name=".svn/tmp/text-base/SplashScreen.java.svn-base"/>
+<mv
+   dest=".svn/text-base/SplashScreen.java.svn-base"
+   name=".svn/tmp/text-base/SplashScreen.java.svn-base"/>
+<readonly
+   name=".svn/text-base/SplashScreen.java.svn-base"/>
+<modify-entry
+   name="SplashScreen.java"
+   checksum="f9488bba55e49726cc15ca81712de1e9"/>
+<modify-entry
+   name="SplashScreen.java"
+   text-time="working"/>
+<modify-entry
+   name="SplashScreen.java"
+   working-size="working"/>
+<modify-entry
+   name="RouteStopGeoPositionDTO.java"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/RouteStopGeoPositionDTO.java.svn-base"
+   name=".svn/prop-base/svn-J8yjxj"/>
+<readonly
+   name=".svn/prop-base/RouteStopGeoPositionDTO.java.svn-base"/>
+<modify-entry
+   committed-rev="133"
+   committed-date="2013-04-22T02:19:11.412136Z"
+   name="RouteStopGeoPositionDTO.java"
+   last-author="lennycaraballo@gmail.com"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name="RouteStopGeoPositionDTO.java"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/133/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main/RouteStopGeoPositionDTO.java"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="RouteStopGeoPositionDTO.java"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="146"/>
+<cp-and-translate
+   dest="RouteStopGeoPositionDTO.java"
+   name=".svn/tmp/text-base/RouteStopGeoPositionDTO.java.svn-base"/>
+<mv
+   dest=".svn/text-base/RouteStopGeoPositionDTO.java.svn-base"
+   name=".svn/tmp/text-base/RouteStopGeoPositionDTO.java.svn-base"/>
+<readonly
+   name=".svn/text-base/RouteStopGeoPositionDTO.java.svn-base"/>
+<modify-entry
+   name="RouteStopGeoPositionDTO.java"
+   checksum="32b409ef64bbe376d5e1648ab981a849"/>
+<modify-entry
+   name="RouteStopGeoPositionDTO.java"
+   text-time="working"/>
+<modify-entry
+   name="RouteStopGeoPositionDTO.java"
+   working-size="working"/>
+<modify-entry
+   name="Item.java"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Item.java.svn-base"
+   name=".svn/prop-base/svn-IBkaZN"/>
+<readonly
+   name=".svn/prop-base/Item.java.svn-base"/>
+<modify-entry
+   committed-rev="64"
+   committed-date="2013-03-03T17:42:27.130007Z"
+   name="Item.java"
+   last-author="lennycaraballo@gmail.com"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name="Item.java"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/64/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main/Item.java"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Item.java"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="146"/>
+<cp-and-translate
+   dest="Item.java"
+   name=".svn/tmp/text-base/Item.java.svn-base"/>
+<mv
+   dest=".svn/text-base/Item.java.svn-base"
+   name=".svn/tmp/text-base/Item.java.svn-base"/>
+<readonly
+   name=".svn/text-base/Item.java.svn-base"/>
+<modify-entry
+   name="Item.java"
+   checksum="406db8fd725d4739080d1efefd933637"/>
+<modify-entry
+   name="Item.java"
+   text-time="working"/>
+<modify-entry
+   name="Item.java"
+   working-size="working"/>
+<modify-entry
+   committed-rev="145"
+   committed-date="2013-04-28T20:12:00.458039Z"
+   name=""
+   last-author="lennycaraballo@gmail.com"
+   uuid="aa872db0-e7f6-4dbf-52ce-1dcf4ee2cf54"/>
+<modify-wcprop
+   name=""
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/!svn/ver/145/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/main"/>

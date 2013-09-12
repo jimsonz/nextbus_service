@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/142/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service
+END
+ServiceUnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/77/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/ServiceUnavailableException.java
+END
+RouteStop.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/RouteStop.java
+END
+JXMapKitHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/85/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/JXMapKitHelper.java
+END
+GeoCoderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/107/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/GeoCoderService.java
+END
+FindStopsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/72/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/FindStopsHelper.java
+END
+NextBusService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/142/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/NextBusService.java
+END
+InvalidAddressException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/107/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/InvalidAddressException.java
+END

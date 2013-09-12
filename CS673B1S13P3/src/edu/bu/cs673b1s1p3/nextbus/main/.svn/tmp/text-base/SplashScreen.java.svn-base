@@ -1,0 +1,80 @@
+/**
+ * Boston University
+ * CS673 - Software Engineering
+ * Professor Yuting Zhang
+ * Team 3 
+ *
+ */
+package edu.bu.cs673b1s1p3.nextbus.main;
+
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+/**
+ * SplashScreen puts up the NextBus logo and version.
+ * 
+ * @author ton
+ *
+ */
+public class SplashScreen extends JWindow
+{
+	private static final long serialVersionUID = -240089308324862616L;
+
+	/**
+	 * Constructor.
+	 * @param filename logo jpg filename
+	 * @param f parent JFrame
+	 * @param waitTime display time
+	 */
+	public SplashScreen(String filename, Frame f, int waitTime) {
+		super(f);
+		JLabel l = new JLabel(new ImageIcon(filename));
+		getContentPane().add(l, BorderLayout.CENTER);
+		pack();
+
+		// Clicking while the Splash is active will dispose 
+		// of the splash screen
+		addMouseListener(new MouseAdapter() {
+			public void mousePressed(MouseEvent e) {
+				setVisible(false);
+				dispose();
+			}
+		});
+		
+		// Clicking on the Frame while the Splash is active 
+	    // will dispose of the splash screen
+		f.addMouseListener(new MouseAdapter() {
+			public void mousePressed(MouseEvent e) {
+				setVisible(false);
+				dispose();
+			}
+		});
+		
+		
+		
+		// This will run the splash as a thread
+		final int pause = waitTime;
+		final Runnable closerRunner = new Runnable() {
+			public void run() {
+				setVisible(false);
+				dispose();
+			}
+		};
+		Runnable waitRunner = new Runnable() {
+			public void run() {
+				try {
+					Thread.sleep(pause);
+					SwingUtilities.invokeAndWait(closerRunner);
+				} catch (Exception e) {
+					e.printStackTrace();
+					// can catch InvocationTargetException
+					// can catch InterruptedException
+				}
+			}
+		};
+		setVisible(true);
+		Thread splashThread = new Thread(waitRunner, "SplashThread");
+		splashThread.start();
+	}
+}

@@ -1,0 +1,82 @@
+/**
+ * Boston University
+ * CS673 - Software Engineering
+ * Professor Yuting Zhang
+ * Team 3 
+ *
+ */
+package edu.bu.cs673b1s1p3.nextbus.main;
+
+import org.jdesktop.swingx.mapviewer.GeoPosition;
+
+import edu.bu.cs673b1s1p3.nextbus.service.routeconfig.Stop;
+
+/**
+ * RouteStopGeoPositionDTO is a Data Transfer Object that
+ * makes it convenient for passing data from the
+ * model to the UI, instead of using complicated
+ * Map/Tress/Sets etc.. DTOs are a common design
+ * pattern.
+ * 
+ * This DTO holds a Route Tag, a Stop, and a GeoPosition
+ * item. The GeoPosition is calculated from the Stop so
+ * all a user has to do is getGeoPosition to get it.
+ * 
+ * @author ton
+ *
+ */
+public class RouteStopGeoPositionDTO {
+	private String routeTag;
+	private Stop stop;
+	private GeoPosition geoPosition;
+	private String nextBusTime;
+	
+	/**
+	 * Constructor.
+	 * @param routeTag the routeTag
+	 * @param stop the Stop
+	 */
+	public RouteStopGeoPositionDTO(String routeTag, Stop stop) {
+		this.routeTag = routeTag;
+		this.stop = stop;
+		if (stop != null) {
+			this.geoPosition = new GeoPosition(stop.getLat().doubleValue(), stop.getLon().doubleValue());
+		}
+	}
+
+	/**
+	 * Get the Route tag.
+	 * 
+	 * @return the routeTag
+	 */
+	public String getRouteTag() {
+		return routeTag;
+	}
+
+	/**
+	 * Get the Stop.
+	 * 
+	 * @return the stop
+	 */
+	public Stop getStop() {
+		return stop;
+	}
+
+	/**
+	 * Get the GeoPosition that was created form the stop. If 
+	 * the stop is null, the GeoPosition will be null.
+	 * 
+	 * @return the geoPosition or null if no GeoPosition was created
+	 */
+	public GeoPosition getGeoPosition() {
+		return geoPosition;
+	}
+
+	public String getNextBusTime() {
+		return nextBusTime;
+	}
+
+	public void setNextBusTime(String nextBusTime) {
+		this.nextBusTime = nextBusTime;
+	}
+}

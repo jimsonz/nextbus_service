@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/136/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/routeconfig
+END
+Direction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/32/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/routeconfig/Direction.java
+END
+RouteConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/31/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/routeconfig/RouteConfig.java
+END
+Stop.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/136/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/routeconfig/Stop.java
+END
+BusRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/32/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/routeconfig/BusRoute.java
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/31/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/routeconfig/Point.java
+END
+Path.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/31/CS673B1S13P3/src/edu/bu/cs673b1s1p3/nextbus/service/routeconfig/Path.java
+END
